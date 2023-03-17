@@ -1,0 +1,25 @@
+{
+  "mahasiswa": [
+    {
+      "NIM": 2041720029,
+      "nama": "Ony Novianti",
+      "alamat": "Sumberpucung, Kabupaten Malang",
+      "hp": "088217762015",
+      "angkatan" : 2020,
+      "status" : "Aktif"
+
+    },
+    {
+      "NIM": 1841720786,
+      "nama": "Mahesa Dwi",
+      "alamat": "Jl. Menur No. 9 Surabaya",
+      "hp": "081425536647",
+      "angkatan" : 2018,
+      "status" : "Lulus"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

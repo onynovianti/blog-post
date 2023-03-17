@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#sidebar{
+  background-color: aquamarine;
+}
+
+#content{
+  background-color: lightgray;
+}

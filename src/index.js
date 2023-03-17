@@ -1,13 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Blogpost from './container/BlogPost/BlogPost';
+import Mahasiswa from './container/Mahasiswa/Mahasiswa';
+import BlogPost from './container/BlogPost/BlogPost';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById('content'));
 root.render(
   <React.StrictMode>
-    <App />
+    {/* <Blogpost /> Untuk ganti ke mode praktikum */}
+    <BlogPost />
   </React.StrictMode>
 );
 
